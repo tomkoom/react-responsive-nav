@@ -22,7 +22,6 @@ const LinkItem = styled.li`
     height: 100%;
     padding: 0 15px;
     // color: #222;
-    font-weight: 500;
     font-size: 1rem;
     align-items: center;
     justify-content: center;
